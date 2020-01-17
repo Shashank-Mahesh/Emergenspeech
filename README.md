@@ -1,9 +1,9 @@
 # EmergenSpeech
-An Android app that uses speech-recognition to provide medical help for someone who has just had a medical emergency before Medical help arrives.
-
 **Shashank Mahesh**
 
 **Pranav Atreya**
+#### 
+An Android app that uses speech-recognition to provide medical help for someone who has just had a medical emergency before Medical help arrives.
 
 ## What it does
 This app uses voice recognition and text analysis to provide for a quick service to people when they see someone who has just had a medical emergency. The person can describe the symptoms the person who has had the medical emergency is facing, and the app will be able to determine what medical condition the user is describing and recommend steps taken to help the person before professional medical aid arrives.
