@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EmergenSpeech</string>
+    <string name="action_settings">Settings</string>
+    <string name="instructions">Recommendations</string>
+    <string name="probable_conditions">Conditions</string>
+    <string name="how_to_use">How To Use</string>
+</resources>

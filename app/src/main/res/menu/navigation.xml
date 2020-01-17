@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+    android:id="@+id/nav_howtouse"
+    android:icon="@drawable/help"
+    android:title="@string/how_to_use" />
+
+    <item
+        android:id="@+id/nav_probableconditions"
+        android:icon="@drawable/medical"
+        android:title="@string/probable_conditions" />
+
+    <item
+        android:id="@+id/nav_recommendations"
+        android:icon="@drawable/list"
+        android:title="@string/instructions" />
+
+</menu>
